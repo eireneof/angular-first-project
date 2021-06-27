@@ -1,6 +1,10 @@
-# E-commerce site with a catalog, shopping cart, and check-out form.
+# E-commerce prototype :money_with_wings:
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.5.
+> Site with a catalog, shopping cart, and check-out form.
+
+This project was made following [this tutorial](https://angular.io/start) (Getting started) available on the official Angular website. It was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.5.
+
+![home image](https://github.com/eireneof/angular-first-project/blob/main/home.png)
 
 ## Development server
 
